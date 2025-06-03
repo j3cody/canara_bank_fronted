@@ -1,13 +1,19 @@
-# React + Vite
+Canara Bank Net Banking Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Net Banking login interface built with React and Tailwind CSS.
+Features
 
-Currently, two official plugins are available:
+    Clean, accessible Net Banking login UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    User ID, Password, Captcha (Image/Audio) input fields
 
-## Expanding the ESLint configuration
+    Language selection dropdown
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# canara_bank_fronted
+    Virtual keyboard prompt for secure password entry
+
+    Buttons for Login, Password Reset, User ID Unlock/Activation, Registration, and more
+
+    Responsive and mobile-friendly design
+
+    Keyboard speed analysis and cursor movement tracking
+    (Analyze typing speed and monitor cursor movement for enhanced security and UX research)
